@@ -1,0 +1,11 @@
+﻿  AccountOwner.cpp
+  BankAccount.cpp
+C:\Users\Abdoh\Desktop\object_oriented\objectOrientedProgramming\objectOrientedProgramming\BankAccount.cpp(44,28): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Abdoh\Desktop\object_oriented\objectOrientedProgramming\objectOrientedProgramming\BankAccount.cpp(50,34): warning C4244: '-=': conversion from 'float' to 'long', possible loss of data
+  CheckingAccount.cpp
+C:\Users\Abdoh\Desktop\object_oriented\objectOrientedProgramming\objectOrientedProgramming\CheckingAccount.cpp(22,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  objectOrientedProgramming.cpp
+  SavingsAccount.cpp
+C:\Users\Abdoh\Desktop\object_oriented\objectOrientedProgramming\objectOrientedProgramming\SavingsAccount.cpp(47,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  objectOrientedProgramming.vcxproj -> C:\Users\Abdoh\Desktop\object_oriented\objectOrientedProgramming\Debug\objectOrientedProgramming.exe
